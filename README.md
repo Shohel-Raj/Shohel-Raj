@@ -1,9 +1,9 @@
 
 ## Hi there 👋, This is Mohammed Sohel
 
-I'm a Full-Stack MERN Developer with a strong passion for building modern, responsive, and scalable web applications. I specialize in the full MERN stack — **MongoDB, Express.js, React.js, Node.js** — along with **Next.js** and **Framer Motion** for smooth, dynamic front-end animations.
+I'm a Full-Stack MERN Developer with a strong passion for building modern, responsive, and scalable web applications. I specialize in the full MERN stack — **MongoDB, Express.js, React.js, Node.js** — along with  **Framer Motion** for smooth, dynamic front-end animations.
 
-Over the past few years, I’ve enjoyed working on everything from robust backend systems to polished, animated user interfaces. My experience includes:
+Over the past few year, I’ve enjoyed working on everything from robust backend systems to polished, animated user interfaces. My experience includes:
 
 - Developing reliable backend services with **Node.js** and **Express**
 - Crafting clean, interactive, and animated UIs using **React**, **Tailwind CSS**, and **Framer Motion**
@@ -40,6 +40,10 @@ Thanks for stopping by — let’s build something amazing together!
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-4F46E5?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript) -->
 
 
