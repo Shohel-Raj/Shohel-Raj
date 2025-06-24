@@ -18,11 +18,12 @@
 
 ---
 
-### 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shohel-Raj&show_icons=true&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shohel-Raj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shohel-Raj&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohel-Raj&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohel-Raj&layout=compact)
-
+---
 ---
 <!-- 
 ### 📫 Let's Connect
