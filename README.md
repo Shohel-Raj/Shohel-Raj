@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Mohammed Sohel
+## Hi there 👋, I'm Mohammed Sohel
+---
 
 💻 I'm a Full Stack Developer from Bangladesh  
 🌱 I’m currently learning React.js  
@@ -8,7 +9,8 @@
 
 ---
 
-### ⚡ Technologies
+## ⚡ Technologies
+---
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
@@ -30,14 +32,19 @@
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
+---
+
 ![](https://github-readme-stats.vercel.app/api?username=Shohel-Raj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shohel-Raj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohel-Raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+## 📫 Let's Connect
+
 ---
-<!-- 
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/YOUR_TWITTER) -->
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohammedshohel.bd) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedshohel87) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shohel87.dev@gmail.com) 
