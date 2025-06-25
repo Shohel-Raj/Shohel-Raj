@@ -22,9 +22,10 @@ Thanks for stopping by — let’s build something amazing together!
 ## 📫 Let's Connect
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohammedshohel.bd) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedshohel87) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shohel87.dev@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mohammedshohel.bd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedshohel87)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shohel87.dev@gmail.com)
+
 
 ## 🛠️ Skills Overview
 
@@ -38,15 +39,6 @@ Thanks for stopping by — let’s build something amazing together!
 
 
 
-
-
-
-<!-- ## 📊 GitHub Stats:
-
-
-![](https://github-readme-stats.vercel.app/api?username=Shohel-Raj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shohel-Raj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohel-Raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 ## 📊 Github Stats
 
 | Top Languages | GitHub Stats | GitHub Streak |
