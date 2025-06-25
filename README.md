@@ -1,4 +1,4 @@
-<img alt="html5" src="./assets/banner.png" />
+<img alt="html5" src="./asserts/banner.png" />
 
 
 
@@ -41,10 +41,16 @@ Thanks for stopping by — let’s build something amazing together!
 
 
 
-## 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats:
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Shohel-Raj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shohel-Raj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohel-Raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohel-Raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+## 📊 Github Stats
+
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohel-Raj&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shohel-Raj&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shohel-Raj&theme=transparent&hide_border=true) |
+
 
