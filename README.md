@@ -43,6 +43,6 @@ Thanks for stopping by — let’s build something amazing together!
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api?username=Shohel-Raj&theme=dark&hide_border=false&include_all_commits=true&count_private=false) | ![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=Shohel-Raj&theme=dark&hide_border=false)| ![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohel-Raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api?username=Shohel-Raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=Shohel-Raj&theme=dark&hide_border=false)| ![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohel-Raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
 
